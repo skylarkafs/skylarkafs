@@ -13,9 +13,9 @@
 <br/>
 
 <!-- ═══════════════════ SOCIALS ═══════════════════ -->
-[![Instagram](https://img.shields.io/badge/@skylarkaf._-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/skylarkaf._)
-[![WhatsApp](https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285184006190?text=Hi+👋)
-[![GitHub](https://img.shields.io/badge/SkylarKaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkylarKaf)
+[![Instagram](https://img.shields.io/badge/@skylarkaf._-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/skylarkafs)
+[![WhatsApp](https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285198181195?text=Hi+👋)
+[![GitHub](https://img.shields.io/badge/SkylarKaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkylarKafs)
 
 <br/>
 
@@ -72,17 +72,15 @@ func main() {
 - NOC Engineer — multi-site L2/L3 infra
 - Youngest crew di LDP PoP Malang 🤫
 - Ngurusin dari OLT sampai subscriber PPPoE
-- On-call pas ada insiden jam berapapun
 
 </td>
 <td width="50%">
 
 **🌙 Di Luar Jam Kerja**
-- 📖 Baca cultivation novel & light novel
-- 📚 Baca komik / manga
-- 🎌 Nonton anime (wajib)
-- 🤖 Develop Bot Elaina di Go
-- 🤔 Overthinking + ngoprek AI tools
+- Baca cultivation novel & light novel
+- Baca komik / manga
+- Nonton anime (wajib)
+- Overthinking + ngoprek AI tools
 
 </td>
 </tr>
@@ -251,7 +249,7 @@ pekerjaan  :
 hobi       :
   - Baca novel (cultivation, fantasy, isekai)
   - Baca komik & manga
-  - Nonton anime — khususnya Majo no Tabitabi 🧙‍♀️
+  - Nonton anime — khususnya Majo no Tabitabi
   - Gaming kalau sempet
   - Ngoprek AI tools
 
